@@ -1,3 +1,3 @@
-# Proxies-checker
+# Proxies_Checker
 
 Rien du tout.
