@@ -53,5 +53,5 @@ def proxies():
 		print("\nAlive list:")
 		print(prox)
 
-
-proxies()
+if __name__ == "__main__":
+	proxies()
